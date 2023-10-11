@@ -26,7 +26,7 @@ require (
 	github.com/tjfoc/gmsm v1.4.0 // indirect
 	github.com/xtaci/kcp-go v5.4.20+incompatible
 	github.com/xtaci/lossyconn v0.0.0-20190602105132-8df528c0c9ae // indirect
-	golang.org/x/net v0.7.0
+	golang.org/x/net v0.17.0
 )
 
 replace github.com/astaxie/beego => github.com/exfly/beego v1.12.0-export-init
